@@ -1,0 +1,23 @@
+.navbar-background{
+    background-color:#ffefef;
+
+}
+/* .card-img{
+    background-color: #ffefef;
+    width: 80px;
+    height: 80px;
+} */
+.ourstory{
+    background-image: url("https://res.cloudinary.com/oluwaloni/image/upload/v1662981153/Group_205.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 15rem;
+}
+.laptoplady{
+    position: absolute;
+    top: -245px;
+    left: 20px;
+    max-width: 100%;
+    height: auto;
+}
